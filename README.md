@@ -33,6 +33,7 @@ This project demonstrates basic CRUD operations, a clean API structure using the
 
 ## Project Structure
 
+```text
 agit-todo-app/
 ├── app/
 │   ├── api/
@@ -63,7 +64,6 @@ agit-todo-app/
 ├── postcss.config.js
 ├── tsconfig.json
 └── README.md
----
 
 ## Setup Instructions
 
