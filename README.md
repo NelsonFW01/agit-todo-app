@@ -38,8 +38,7 @@ agit-todo-app/
 │   ├── api/
 │   │   └── tasks/
 │   │       ├── route.ts
-│   │       └── [id]/
-│   │           └── route.ts
+│   │       └── [id]/route.ts
 │   ├── globals.css
 │   ├── layout.tsx
 │   ├── page.tsx
@@ -54,10 +53,9 @@ agit-todo-app/
 │   ├── prisma.ts
 │   └── validations.ts
 ├── prisma/
+│   ├── app.db
 │   ├── schema.prisma
 │   └── migrations/
-├── app.db
-├── app.db-journal
 ├── .env
 ├── .gitignore
 ├── package.json
@@ -65,7 +63,6 @@ agit-todo-app/
 ├── postcss.config.js
 ├── tsconfig.json
 └── README.md
-
 ---
 
 ## Setup Instructions
